@@ -1,0 +1,16 @@
+{
+    "name": "existenz/sub",
+    "description": "Sub",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "eX"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Sub\\": "src/"
+        }
+    }
+}
