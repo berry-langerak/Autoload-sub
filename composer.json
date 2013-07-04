@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Sub\\": "src/"
+            "Sub\\": "src/Sub/"
         }
     }
 }
